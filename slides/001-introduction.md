@@ -1,8 +1,12 @@
 ---
-notes:
+notes: |
+  Hi folks 👋
+
+  My name is Chris Manson, you might know me online as real_ate in most places SLIDE
 ---
-## Introduction
 
-Congratulations on your new slide deck 🎉
+## Lint Your Code Into the Future <!-- .element style="position: initial; width: 50%" -->
 
-As with other [Empress](https://github.com/empress) project you write your content in Markdown with a bit of Yaml frontmatter
+<div>Chris Manson - @real_ate</div> <!-- .element style="text-align: left" -->
+
+![Chris](/images/chris.jpg) <!-- .element style="height: 320px; position: absolute; right: 0; top: 200px;" -->
