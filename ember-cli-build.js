@@ -20,5 +20,8 @@ module.exports = function (defaults) {
   // please specify an object with the list of modules as keys
   // along with the exports of each module as its value.
 
+  app.import('node_modules/canvas-confetti/dist/confetti.browser.js');
+  app.import('node_modules/reveal.js/js/reveal.js');
+
   return app.toTree();
 };
