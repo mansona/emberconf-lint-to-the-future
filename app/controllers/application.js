@@ -8,7 +8,7 @@ export default class ApplicationController extends Controller {
     console.error('please get in here');
     setTimeout(() => {
       Reveal.addEventListener('slidechanged', function (event) {
-        if (event.indexh !== 15) {
+        if (event.indexh !== 15 && event.indexh !== 30) {
           return;
         }
 

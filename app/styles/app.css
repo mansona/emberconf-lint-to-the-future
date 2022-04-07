@@ -3,3 +3,7 @@
 .reveal pre code {
   max-height: none;
 }
+
+.white-text .hljs-comment, .white-text .hljs {
+  color: #e9e9e9;
+}
