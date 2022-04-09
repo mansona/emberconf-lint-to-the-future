@@ -60,11 +60,13 @@
     "loader.js": "^4.7.0",
     "npm-run-all": "^4.1.5",
     "open-slide": "^0.2.0",
-    "open-slide-simplabs-template": "^0.1.4",
+    "open-slide-simplabs-template": "file:../../opensource/empress/open-slide/open-slide-simplabs-template",
     "prember": "^1.1.0",
     "prettier": "^2.5.1",
     "qunit": "^2.17.2",
-    "qunit-dom": "^1.6.0"
+    "qunit-dom": "^1.6.0",
+    "reveal-notes-server": "^0.1.0",
+    "reveal.js": "~4.0.0"
   },
   "engines": {
     "node": "12.* || 14.* || >= 16"

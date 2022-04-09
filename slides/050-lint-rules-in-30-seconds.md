@@ -7,4 +7,4 @@ notes: |
 
 # Lint rules in 30 seconds
 
-This is a slide!
+<video data-autoplay muted playsinline style="height: 500px;" src="/images/listening.webm"></video>

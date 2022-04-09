@@ -5,4 +5,4 @@ notes: |
 
 # The Masked Lint
 
-This is a slide!
+<video data-autoplay muted loop playsinline style="height: 500px;" src="/images/mask.webm"></video>
