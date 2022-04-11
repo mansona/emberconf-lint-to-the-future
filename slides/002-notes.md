@@ -1,6 +1,6 @@
 ---
 notes: |
-  You can find me on Twitter, Twitch, the Ember Community Discord), apart from GitHub where I am mansona because for some reason they hate the underscore!! If anyone watching knows anyone in GitHub that has the power to allow underscores in this form <screenshot> please get in touch!
+  You can find me on Twitter, Twitch, the Ember Community Discord all as real_ate, apart from GitHub where I am mansona because for some reason they hate the underscore!! If anyone watching knows anyone in GitHub that has the power to allow underscores in this form <screenshot> please get in touch!
 ---
 ## Where to find me
 

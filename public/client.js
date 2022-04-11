@@ -11,7 +11,6 @@
   // var socket = io.connect( 'localhost:1947' );
   const socketId = Math.floor(Math.random() * 90000) + 10000;
 
-  debugger;
   console.log(
     'View slide notes at ' + window.location.origin + '/notes/' + socketId
   );

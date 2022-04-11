@@ -1,6 +1,6 @@
 ---
 notes: |
-  Right now we’re going to take a little detour and we’re going to very quickly look into how to write one of these lint rules because it’s a little bit different from writing things like tests. But before I do I want to partake in a little bit of audience participation (I can’t help myself whenever I’m doing a conference talk). So firstly, can everyone raise their hands if you have ever written a test.
+  Next up we'll look at what it's like to write one of these lint rules because it’s a little bit different from writing things like tests. But before I do I want to partake in a little bit of audience participation. So firstly, can everyone raise their hands if you have ever written a test.
 
   Oh wait I can’t actually see your hands… so let’s try this a different way. Hey twitter people: have you ever written a test
 

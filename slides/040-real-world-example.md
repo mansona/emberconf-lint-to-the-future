@@ -5,7 +5,7 @@ notes: |
 
 # Real world example
 
-```
+```hbs
 
 <Ui::Button />
 
@@ -16,7 +16,7 @@ notes: |
 <br>
 <br>
 
-```
+```hbs
 
 <Ui::Button class=“flex” />
 
