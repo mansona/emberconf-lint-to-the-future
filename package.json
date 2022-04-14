@@ -64,9 +64,7 @@
     "prember": "^1.1.0",
     "prettier": "^2.5.1",
     "qunit": "^2.17.2",
-    "qunit-dom": "^1.6.0",
-    "reveal-notes-server": "^0.1.0",
-    "reveal.js": "~4.0.0"
+    "qunit-dom": "^1.6.0"
   },
   "engines": {
     "node": "12.* || 14.* || >= 16"
