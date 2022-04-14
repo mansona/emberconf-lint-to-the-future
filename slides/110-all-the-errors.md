@@ -9,4 +9,4 @@ notes: |
 
 # All the errors
 
-![Errors](/images/errors.png)
+![Errors](/images/errors.webp)

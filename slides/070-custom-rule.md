@@ -9,4 +9,4 @@ notes: |
 
 # Custom Rule
 
-![ember template lint](/images/rule.png)
+![ember template lint](/images/rule.webp)

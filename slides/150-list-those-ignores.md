@@ -7,4 +7,4 @@ notes: |
 
 # List those ignores
 
-![list output](/images/list-output.png)
+![list output](/images/list-output.webp)

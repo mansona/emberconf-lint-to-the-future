@@ -9,4 +9,4 @@ notes: |
 
 <div>Chris Manson - @real_ate</div> <!-- .element style="text-align: left" -->
 
-![Chris](/images/chris.jpg) <!-- .element style="height: 320px; position: absolute; right: 0; top: 200px;" -->
+![Chris](/images/chris.webp) <!-- .element style="height: 320px; position: absolute; right: 0; top: 200px;" -->

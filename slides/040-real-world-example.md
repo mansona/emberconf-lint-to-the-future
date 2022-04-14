@@ -24,4 +24,4 @@ notes: |
 ```
 <!-- .element class="fragment" -->
 
-![Banned](/images/banned.png) <!-- .element class="fragment" style="position: absolute; left: 400px; bottom: 50px;" -->
+![Banned](/images/banned.webp) <!-- .element class="fragment" style="position: absolute; left: 400px; bottom: 50px;" -->

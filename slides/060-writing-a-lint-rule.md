@@ -7,4 +7,4 @@ notes: |
 
 # Writing a lint rule
 
-![Have you written a lint rule](/images/lint-rule.png) <!-- .element style="height: 550px" -->
+![Have you written a lint rule](/images/lint-rule.webp) <!-- .element style="height: 550px" -->

@@ -7,4 +7,4 @@ notes: |
 
 # AST Explorer
 
-![AST Explorer](/images/astexplorer.png)
+![AST Explorer](/images/astexplorer.webp)

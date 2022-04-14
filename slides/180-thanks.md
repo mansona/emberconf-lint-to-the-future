@@ -11,4 +11,4 @@ notes: |
   <li>https://github.com/mansona</li>
 <li>
 
-![Chris](/images/chris.jpg) <!-- .element style="height: 320px; position: absolute; right: 0; top: 200px;" -->
+![Chris](/images/chris.webp) <!-- .element style="height: 320px; position: absolute; right: 0; top: 200px;" -->

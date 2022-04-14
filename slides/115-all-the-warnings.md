@@ -5,4 +5,4 @@ notes: |
 
 # All the warnings
 
-![warnings](/images/warnings.png)
+![warnings](/images/warnings.webp)

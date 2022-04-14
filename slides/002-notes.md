@@ -12,4 +12,4 @@ notes: |
 </ul>
 
 
-![Rename](/images/rename.png) <!-- .element class="fragment" style="height: 320px; position: absolute; right: 0; top: 200px;" -->
+![Rename](/images/rename.webp) <!-- .element class="fragment" style="height: 320px; position: absolute; right: 0; top: 200px;" -->

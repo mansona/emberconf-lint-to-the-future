@@ -13,4 +13,4 @@ notes: |
 
 # Writing a lint rule
 
-![Have you written a test](/images/test.png) <!-- .element class="fragment" style="height: 550px" -->
+![Have you written a test](/images/test.webp) <!-- .element class="fragment" style="height: 550px" -->

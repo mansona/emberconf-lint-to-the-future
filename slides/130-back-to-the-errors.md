@@ -5,4 +5,4 @@ notes: |
 
 # Back to the Errors
 
-![Errors](/images/errors.png)
+![Errors](/images/errors.webp)

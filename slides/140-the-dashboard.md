@@ -7,4 +7,4 @@ notes: |
 
 # The Dashboard
 
-![dashboard](/images/dashboard.png)
+![dashboard](/images/dashboard.webp)

@@ -9,4 +9,4 @@ notes: |
 
 # Lint to the Future
 
-![lttf](/images/lttf.png)
+![lttf](/images/lttf.webp)

@@ -5,7 +5,7 @@ notes: |
 
 # You, a Developer
 
-![Dev](/images/developer.jpg) <!-- .element style="height: 500px; position: absolute; left: 0; top: 150px;" -->
+![Dev](/images/developer.webp) <!-- .element style="height: 500px; position: absolute; left: 0; top: 150px;" -->
 
 ![JavaScript](/images/javascript.svg) <!-- .element class="fragment" style="height: 140px; position: absolute; right: 0; top: 150px;" -->
 
